@@ -1,0 +1,47 @@
+* {
+    background: black;
+    color: white;
+}
+
+
+.getNumber {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.inputNumberBox {
+    background-color: darkgreen;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+#paragraph {
+    background-color: darkgreen;
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    background-color: blanchedalmond;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.instructions {
+    background-color: darkgreen;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.head {
+ 
+    background-color: darkgreen;
+    color: black;
+    padding: 20px;
+    text-align: center;
+
+}
